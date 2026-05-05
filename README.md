@@ -1,5 +1,4 @@
-$readme = @"
-<div align="center">
+﻿<div align="center">
 
   <h1>✨ Sohail Carpets ✨</h1>
   <p><em>Premium, Hand-Crafted Rugs & Carpets to Elevate Your Space</em></p>
@@ -45,17 +44,17 @@ Whether you're looking for modern minimalism or vintage Oriental classics, this 
 To run this project locally, follow these simple steps:
 
 1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Shifa-0000/sohail-carpets.git
-   ```
+   `ash
+   git clone https://github.com/yourusername/sohail-carpets.git
+   `
 
 2. **Navigate to the project directory**
-   ```bash
+   `ash
    cd sohail-carpets
-   ```
+   `
 
 3. **Open the project**
-   Simply open `index.html` in your favorite web browser!
+   Simply open index.html in your favorite web browser!
 
 ## 🛠️ Technologies Used
 
@@ -67,8 +66,5 @@ To run this project locally, follow these simple steps:
 
 <hr />
 <div align="center">
-  <p>Created for Pakistan | &copy; 2026 Sohail Carpets</p>
+  <p>Created with ❤️ for Pakistan | &copy; 2026 Sohail Carpets</p>
 </div>
-"@
-
-
